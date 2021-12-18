@@ -1,0 +1,6 @@
+Order_ID,Product_Price,Quantity,Total_Price,Customer_Customer_Id,Payment_Payment_ID,Payment_Details,Online_Beauty_Store_Beauty_product_Type_ID
+1000001,90,2,180,10001,9000002,Paid by Credit card,101
+1000002,299.98999,4,1199.95996,10002,9000003,Paid by debit card,102
+1000003,189,2,378,10002,9000004,Paid by Internet banking,103
+"1000004							",90,3,270,10003,9000005,paying through COD,101
+"1000005							",90,1,90,10001,9000005,Paying through cash on delivery,101

@@ -1,0 +1,5 @@
+Customer_ID,First_Name,Last_Name,Mail_ID,Address,PhoneNumber
+10001,Anna,Forbes,Anna.Forbes@gmail.com,"1531,Naperville	",6301234567
+10002,John,Smith,john.smith@gmail.com,"1601, Plainfield	",6961234567
+10003,Kate,Brown,kate.brown@gmail.com,"2098, Romeoville",6901122334
+"10004		","Damon	",Salvatore,"Damon.Salvatore@gmail.com	","6789,Chicago	",8781237654

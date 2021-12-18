@@ -1,0 +1,4 @@
+Sale_ID,Sale_Quantity,ProfitAndLoss,Product_InStock,Month, Monthly_sales_inPercent,Online_Beauty_Store_Beauty_product_ID
+1,110,10000,0,3,75,101
+2,275,800000.75,1,7,90,102
+3,330,10000001,1,12,100,103

@@ -1,0 +1,5 @@
+Payment_ID,Cash_On_Delivery,Credit_card,Debit_Card,Internet_Banking
+9000002,0,1,0,0
+9000003,0,0,1,0
+9000004,0,0,0,1
+9000005,1,0,0,0
